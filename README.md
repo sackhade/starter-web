@@ -13,3 +13,7 @@ Purpose
 ## Deployment
 
 ## How to contribute
+
+## Copyright
+
+Copyright git training
