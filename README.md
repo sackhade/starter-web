@@ -25,4 +25,4 @@ djaflkasdadskf
 
 ## Copyright
 
-Copyright git training
+Copyright git training. All rights reserved
