@@ -2,6 +2,8 @@
 
 Adding a line for rebaseing example
 
+more changes from myfeature branch
+
 This is example
 
 ## Introduction
